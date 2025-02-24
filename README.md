@@ -74,12 +74,5 @@ Frontend will be running at http://localhost:4200
    - email - admin@test.com
     - password - password
 
-## URLs
-
-|     Application       |     URL          |
-| ------------- | ------------- |
-| Shopbiz-api | http://localhost:8080/shopbiz-api/swagger-ui/index.html |
-| Eureka | http://localhost:8761/|
-| Zipkin | http://localhost:9411/zipkin/ |
 
 
