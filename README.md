@@ -72,7 +72,7 @@ Frontend will be running at http://localhost:4200
    -  password - password 
  - Admin role 
    - email - admin@test.com
-    - password - password
+    - password - password.
 
 
 
