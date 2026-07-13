@@ -5,8 +5,8 @@
 - Angular 8
 - Spring Boot 2.
 - Spring Cloud..
-- Docker..
-.
+- Docker
+  
 ### Features:
 1. User authentication and access control using Spring Security with Json Web Token 
 2. Spring actuator to monitor API usage including /health endpoint
