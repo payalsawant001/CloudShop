@@ -59,7 +59,7 @@ $ ng serve
 ```
 Frontend will be running at http://localhost:4200
 
-## Deploy Using Docker
+## Deploy Using Docker.
 - Run docker compose from project root
  
   -```$ docker-compose up --build```
