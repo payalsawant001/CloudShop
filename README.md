@@ -1,5 +1,4 @@
-#Spring-Boot and Angular e-commerce app with Microservices architecture using Spring Cloud..
-
+#Spring-Boot and Angular e-commerce app with Microservices architecture using Spring Cloud
 ### Technologies
 - Java 8
 - Angular 8
