@@ -3,7 +3,7 @@
 - Java 8
 - Angular 8
 - Spring Boot 2
-- Spring Cloud..
+- Spring Cloud
 - Docker
   
 ### Features:
