@@ -35,7 +35,7 @@
       - create database 'shopbiz' in mysql 
       - Update mysql credentials in application.properties located at src/main/resources
  - All tables will be created and intial data will be imported automatically from data.sql file by Spring Boot
-navigation api shows a tendancy
+
 Navigate to shopbiz directory
 
  -```$ cd shopbiz-api```
@@ -56,7 +56,7 @@ $ npm install
 $ ng serve
 ```
 Frontend will be running at http://localhost:4200
-
+when we kept a text for a adjustment shows a kepting a name for a longtime
 ## Deploy Using Docker.
 - Run docker compose from project root
  
