@@ -56,7 +56,7 @@ $ npm install
 $ ng serve
 ```
 Frontend will be running at http://localhost:4200
-when we kept a text for a adjustment shows a kepting a name for a longtime
+
 ## Deploy Using Docker.
 - Run docker compose from project root
  
@@ -71,6 +71,6 @@ when we kept a text for a adjustment shows a kepting a name for a longtime
  - Admin role 
    - email - admin@test.com
     - password - password
-
+when we update a text they are improving a code a redability
 
 
