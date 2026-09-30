@@ -72,4 +72,4 @@ Frontend will be running at http://localhost:4200
    - email - admin@test.com
     - password - password
 
-which is the best options for a standard 
+erase all the line and readability of the code has been stable of the sysytem
