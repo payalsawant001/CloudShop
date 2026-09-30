@@ -71,6 +71,8 @@ Frontend will be running at http://localhost:4200
  - Admin role 
    - email - admin@test.com
     - password - password
+
 when we update a text they are improving a code a redability
+so what are the keywords and what they are improve the area 
 
 
