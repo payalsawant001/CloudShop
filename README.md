@@ -72,9 +72,4 @@ Frontend will be running at http://localhost:4200
    - email - admin@test.com
     - password - password
 
-when we update a text they are improving a code a redability
-so what are the keywords and what they are improve the area 
-
-..........
-
-what happen so thats why we have clarify the area depends upon the same of as above the area 
+which is the best options for a standard 
