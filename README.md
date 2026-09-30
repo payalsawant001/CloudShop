@@ -72,4 +72,4 @@ Frontend will be running at http://localhost:4200
    - email - admin@test.com
     - password - password
 
-What are the people says of the area around the oficial concerns so thats why we are 
+we are helping the sections around the area of the readivakity of the section arounds itself
