@@ -71,5 +71,4 @@ Frontend will be running at http://localhost:4200
  - Admin role 
    - email - admin@test.com
     - password - password
-
- - what are the openings of the systen 
+- suraj kharade
