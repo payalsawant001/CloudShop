@@ -72,3 +72,10 @@ Frontend will be running at http://localhost:4200
    - email - admin@test.com
     - password - password
 
+ - salesforce developer
+ - developer
+ - admin
+ - cloud
+ - flows
+ - apex
+ - 
