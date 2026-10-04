@@ -59,7 +59,7 @@ Frontend will be running at http://localhost:4200
 
 ## Deploy Using Docker.
 - Run docker compose from project root
-
+.............................................................
   -```$ docker-compose up --build```
 - This will deploy whole application with microservices .where nginx will serve UI and redirect to backend using proxy and mysql and mongodb containers will be running with persistent volume to store data across container lifecycle.
 - Navigate to http://localhost to view running app
@@ -71,4 +71,3 @@ Frontend will be running at http://localhost:4200
  - Admin role 
    - email - admin@test.com
     - password - password
-.....................................................
