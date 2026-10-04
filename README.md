@@ -45,7 +45,7 @@ Run as spring-boot application
 ```$ mvn spring-boot:run```
 
 Swagger documentation available at - http://localhost:8080/shopbiz/swagger-ui.html#/
-.....................................................
+
 In browser navigate to http://localhost:8080/shopbiz/
 
 ### To run frontend with Angular CLI and NodeJS
@@ -56,7 +56,7 @@ $ npm install
 $ ng serve
 ```
 Frontend will be running at http://localhost:4200
-
+................................................
 ## Deploy Using Docker.
 - Run docker compose from project root
 
