@@ -35,7 +35,7 @@
       - create database 'shopbiz' in mysql 
       - Update mysql credentials in application.properties located at src/main/resources
  - All tables will be created and intial data will be imported automatically from data.sql file by Spring Boot
-
+...............................................
 Navigate to shopbiz directory
 
  -```$ cd shopbiz-api```
@@ -47,7 +47,7 @@ Run as spring-boot application
 Swagger documentation available at - http://localhost:8080/shopbiz/swagger-ui.html#/
 
 In browser navigate to http://localhost:8080/shopbiz/
-...........................................................
+
 ### To run frontend with Angular CLI and NodeJS
 - navigate to shopbiz-ui
 ```
