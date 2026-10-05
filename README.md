@@ -23,7 +23,7 @@
 4. Client side load balancing using Ribbon
 5. Hystrix for fault tolerance
 6. Distributed Tracing using Spring Cloud Sleuth and Zipkin
-.......................................
+
 ## Build and Deploy
 ### Running apps independently with maven installed:
  - Change directory to Spring Cloud projects and run as Spring Boot application
@@ -41,7 +41,7 @@ Navigate to shopbiz directory
  -```$ cd shopbiz-api```
  .
 Run as spring-boot application 
-
+..........................................
 ```$ mvn spring-boot:run```
 
 Swagger documentation available at - http://localhost:8080/shopbiz/swagger-ui.html#/
