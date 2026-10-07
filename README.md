@@ -15,7 +15,7 @@
 7. Interacting with RabbitMQ server to pubish and subscribe messages for update in order details using Spring AMQP's RabbitTemplate.
 8. Admin role can add/update/delete products
 9. Hibernate Level 2 caching with EhCache
-
+.............................
 ### Spring Cloud components
 1. Eureka for Microservice Registration and Discovery and Dynamic scaling
 2. Netflix-zuul for API Gateway
@@ -59,7 +59,7 @@ Frontend will be running at http://localhost:4200
 
 ## Deploy Using Docker.
 - Run docker compose from project root
-............................................. 
+
   -```$ docker-compose up --build```
 - This will deploy whole application with microservices .where nginx will serve UI and redirect to backend using proxy and mysql and mongodb containers will be running with persistent volume to store data across container lifecycle.
 - Navigate to http://localhost to view running app
