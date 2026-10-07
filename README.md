@@ -39,9 +39,9 @@
 Navigate to shopbiz directory
 
  -```$ cd shopbiz-api```
- .......................................................
+ 
 Run as spring-boot application 
-
+..................................................................
 ```$ mvn spring-boot:run```
 
 Swagger documentation available at - http://localhost:8080/shopbiz/swagger-ui.html#/
