@@ -37,9 +37,9 @@
  - All tables will be created and intial data will be imported automatically from data.sql file by Spring Boot
 
 Navigate to shopbiz directory
-..............................
+
  -```$ cd shopbiz-api```
- 
+ ...................................
 Run as spring-boot application 
 
 ```$ mvn spring-boot:run```
