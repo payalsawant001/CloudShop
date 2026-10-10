@@ -23,7 +23,7 @@
 4. Client side load balancing using Ribbon
 5. Hystrix for fault tolerance
 6. Distributed Tracing using Spring Cloud Sleuth and Zipkin
-.............................
+
 ## Build and Deploy
 ### Running apps independently with maven installed:
  - Change directory to Spring Cloud projects and run as Spring Boot application
@@ -35,7 +35,7 @@
       - create database 'shopbiz' in mysql 
       - Update mysql credentials in application.properties located at src/main/resources
  - All tables will be created and intial data will be imported automatically from data.sql file by Spring Boot
-
+.........................................
 Navigate to shopbiz directory
 
  -```$ cd shopbiz-api```
