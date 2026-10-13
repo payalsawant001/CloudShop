@@ -23,7 +23,7 @@
 4. Client side load balancing using Ribbon
 5. Hystrix for fault tolerance
 6. Distributed Tracing using Spring Cloud Sleuth and Zipkin
-
+...............................................
 ## Build and Deploy
 ### Running apps independently with maven installed:
  - Change directory to Spring Cloud projects and run as Spring Boot application
@@ -63,7 +63,7 @@ Frontend will be running at http://localhost:4200
   -```$ docker-compose up --build```
 - This will deploy whole application with microservices .where nginx will serve UI and redirect to backend using proxy and mysql and mongodb containers will be running with persistent volume to store data across container lifecycle.
 - Navigate to http://localhost to view running app
- .................................
+ 
 ### To login 
  - Customer role 
    -  email - customer@test.com 
