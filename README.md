@@ -39,7 +39,7 @@
 Navigate to shopbiz directory
 
  -```$ cd shopbiz-api```
- ..................................................
+ 
 Run as spring-boot application 
 
 ```$ mvn spring-boot:run```
